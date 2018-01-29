@@ -2,7 +2,7 @@
  
 
 ### 效果图:
-<img src="http://chuantu.biz/t6/217/1517187195x-1404775443.png/" style="width:300px;height:500px">
+![pxqX7t.png](https://s1.ax1x.com/2018/01/29/pxqX7t.png)
 
 ### 功能:
 1. 默认状态只展示时间;
