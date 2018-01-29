@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+.main {
+    margin: 0 auto;
+    width: 600px;
+    padding: 50px 30px 0 30px;
+}
+
+ul {
+    top: 0;
+    left: -50px;
+    position: relative;
+    margin-top: 20px;
+    width: 500px;
+}
+
+li {
+    list-style: none;
+    min-height: 50px;
+    background: url(./images/icon07.gif) no-repeat 0px 4px;
+    /* background-origin:content-box; */
+    /* padding-bottom: 50px; */
+    zoom: 1;
+    padding-left: 40px;
+    word-break: break-all;
+}
+
+.history {
+    /* background: url(./images/line04.gif) repeat-y 7px 30px;
+    overflow: hidden;
+    position: relative; */
+    display: flex;
+}
+
+.line {
+    width: 50px;
+    /* height: 200px; */
+    background: url(./images/line04.gif) repeat-y 7px 30px;
+    overflow: hidden;
+    top: 33px;
+    bottom: 33px;
+    position: relative;
+}
+
+ul li div{
+    padding: 10px
+}
